@@ -113,5 +113,6 @@ This project is licensed under the MIT License.
 
 ### Contact
 
-email: cnyagakan@gmail.com
+cnyagakan@gmail.com
+
 ---
