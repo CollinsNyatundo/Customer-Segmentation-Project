@@ -47,7 +47,7 @@ The dataset used in this project includes various features related to customer d
 
 -**Teenhome**: Number of teenagers in Customers' household
 
--**Dt_Customers**: Date of Customers's enrollment with the company
+-**Dt_Customers**: Date of Customers' enrollment with the company
 
 -**Recency**: Number of days since Customer's last purchase
 
