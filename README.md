@@ -51,7 +51,7 @@ The dataset used in this project includes various features related to customer d
 
 -**Recency**: Number of days since Customer's last purchase
 
--**Complain**: 1 if Customers complained in the last 2 years, 0 otherwise
+-**Complain**: 1 if Customer complained, 0 otherwise
 
 ### Methodology
 
