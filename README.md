@@ -1,4 +1,4 @@
-## Project Documentation for Customer Segmentation
+## Documentation for Customer Segmentation
 
 ### Project Overview
 
