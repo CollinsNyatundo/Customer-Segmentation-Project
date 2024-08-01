@@ -26,7 +26,7 @@ Customer segmentation is a vital process in marketing and customer relationship 
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 - **Matplotlib & Seaborn**: For data visualization.
-- **Datapurifier**: For data report.
+- **Datapurifier**: For data report and exploratory data analysis (EDA).
 - **Scikit-learn**: For implementing machine learning algorithms, particularly clustering techniques.
 
 ### Data Description
