@@ -98,6 +98,3 @@ The Customer Segmentation Project demonstrates how unsupervised learning techniq
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-Citations:
-[1] https://github.com/CollinsNyatundo/Customer-Segmentation-Project
